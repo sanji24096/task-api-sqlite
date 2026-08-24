@@ -69,9 +69,7 @@ lists every completed task directly from the database:
 SELECT * FROM tasks WHERE done = 1;
 ```
 
-A screenshot of this query running in DB Browser is included below.
 
-![Database screenshot](screenshot.png)
 
 ## What changed from Assignment 1
 
